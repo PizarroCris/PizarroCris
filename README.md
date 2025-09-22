@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/PizarroCris/PizarroCris/main/images/github-banner-pizarro.png" alt="Cristiano Pizarro GitHub Banner" style="width:100%; max-width: 900px;">
-  <h1>Hello! I'm Cristiano Pizarro 👋</h1>
+  <h1>Hi! I'm Cristiano Pizarro 👋</h1>
   <h3>Full Stack Developer</h3>
 </div>
 
