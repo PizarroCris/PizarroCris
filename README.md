@@ -14,7 +14,7 @@ A Full Stack Developer passionate about building interactive and real-time web a
 
 ### 🛠️ My Skills
 
-* **Back-End:** Ruby on Rails, PostgreSQL, REST API
+* **Back-End:** Ruby on Rails, RSpec, PostgreSQL, REST API
 * **Front-End:** JavaScript (ES6), StimulusJS, Hotwire, HTML5, CSS3 (SCSS), Bootstrap
 * **AI & Data:** OpenAI API's, LLM's, ActionCable, WebSocket
 * **Tools:** Git, GitHub, Heroku
